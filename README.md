@@ -1,4 +1,4 @@
-# DF-Driver
+# DF-Driver (Modified for enabling bluetooth)
 
 Micro:bit motor drive expansion board.
 ---------------------------------------------------------
